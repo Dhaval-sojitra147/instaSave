@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "702964981922",
+    "project_id": "instasave-9c049",
+    "storage_bucket": "instasave-9c049.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702964981922:android:fabc656c2077516ecd37fb",
+        "android_client_info": {
+          "package_name": "com.instasave.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702964981922-6edfoui7bh4v2cicjbdei0a0bse19904.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instasave.app",
+            "certificate_hash": "4dbb36697125d63470f472e49a7015cbb1033924"
+          }
+        },
+        {
+          "client_id": "702964981922-esf686e95s4pisr53d7bf3rl5j1ifk8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instasave.app",
+            "certificate_hash": "b056b9817b56fe4a925ef1b26ae9dd9245756a01"
+          }
+        },
+        {
+          "client_id": "702964981922-mh49trd6ch9ba8occuh18q37b8i41eat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instasave.app",
+            "certificate_hash": "2a4f3bee96d703b7a089eb0bf6887b21eca72834"
+          }
+        },
+        {
+          "client_id": "702964981922-smn42j3esgnttklcbgesvnsc7bid7e4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instasave.app",
+            "certificate_hash": "7c92d039fc7b2aba3d44f0196c65cf8e773ea12c"
+          }
+        },
+        {
+          "client_id": "702964981922-btcsngrvuestacn1bdk0p6jj5rk1q0e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVCqdSaflJXI2Iu9K2K05YicTJPeRSDwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702964981922-btcsngrvuestacn1bdk0p6jj5rk1q0e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
